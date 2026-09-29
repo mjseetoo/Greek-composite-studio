@@ -457,7 +457,7 @@ export default function App() {
                 + Add person
               </button>
               <button className="button ghost" onClick={loadRoster}>
-                Load DTD name roster
+                Load name roster
               </button>
             </div>
             <p className="subtle">
