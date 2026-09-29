@@ -51,42 +51,14 @@ const imageFromData = (data: string) =>
 
 const ROSTER: Record<Group, [string, string][]> = {
   Officers: [
-    ["Wyatt Davis", "President"],
-    ["Owen Lowdermilk", "Vice President"],
-    ["Ellis Cohen", "Director of Risk Management"],
-    ["Name TBD", "Director of New Member Education"],
-    ["Will Weaver", "Director of Communications"],
-    ["Elliot Alford", "Sergeant at Arms"],
-    ["Cole Yunker", "Director of Recruitment"],
-    ["Sean Floriani", "Director of Finance"],
+
   ],
   Sweethearts: [
-    ["Aubrie Dolan", ""],
-    ["Nicole Gingrich", ""],
-    ["Riley Lallathin", ""],
-    ["Abby Schaefer", ""],
+
   ],
   Brothers: (
     [
-      "Sam Adams",
-      "Tegan Adler",
-      "Stuart Cohen",
-      "Brady Cumbia",
-      "Nolan Diss",
-      "Daniel Gomez",
-      "Mark Jos",
-      "Elijah Kelly",
-      "William Lallathin",
-      "Jackson Mason",
-      "Jimmy Montgomery",
-      "Ryan Mulroney",
-      "Bryce Murray",
-      "Michael Powell",
-      "Drew Salter",
-      "Sean Smith",
-      "Colton Tippins",
-      "Chris Watson",
-      "Tristan Wright",
+
     ] as string[]
   ).map((n) => [n, ""] as [string, string]),
 };
