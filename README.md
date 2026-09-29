@@ -8,9 +8,10 @@ Composite Studio is a self-contained HTML app for making the classic fraternity-
 
 ## Α · Quick Start
 
-1. Download **`Composite-Studio.html`**.
-2. Double-click it. It opens in your browser.
-3. That's the whole setup.
+1. Download the **Greek-composite-studio** as a zip file.
+2. Unzip the folder
+3. Double-click **Composite studio**. It opens in your browser.
+4. That's the whole setup.
 
 It works offline, and nothing leaves your device. Your photos are never uploaded anywhere.
 
@@ -60,8 +61,8 @@ Name | Role | Section
 For example:
 
 ```
-Jane Doe | President | Officers
-Alex Smith | | Sweethearts
+Alex Smith | President | Officers
+Jane Doe | | Sweethearts
 Sam Adams | | Brothers
 ```
 
@@ -89,7 +90,7 @@ Composite Studio keeps your work in memory only. **Refreshing or closing the tab
 
 The defaults are set up for Delta Tau Delta, Kappa Iota Chapter at East Carolina University, but everything in the **Design** tab is editable, so any chapter or organization can use it as-is.
 
-The **Load DTD name roster** button loads a preset list of names. It's just seed data. If you'd like your own preset, edit the roster and default settings in the source before building.
+The **Load name roster** button loads a preset list of names. It's just seed data. If you'd like your own preset, edit the roster and default settings in the source before building.
 
 ---
 
@@ -138,4 +139,4 @@ We reach for heavyweight frameworks, hosted platforms, and subscription software
 
 Built for chapters that want a great-looking composite without the hassle, the fees, or the wait.
 
-*Αεί ἀριστεύειν.*
+Rah rah Delta Tau
